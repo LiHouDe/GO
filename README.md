@@ -1,1 +1,1 @@
-# GO
+Let us play GO!
